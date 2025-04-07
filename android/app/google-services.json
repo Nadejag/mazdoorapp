@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527477749661",
+    "project_id": "mazdoor-21e64",
+    "storage_bucket": "mazdoor-21e64.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527477749661:android:1ef69ff07f7d483c2f2174",
+        "android_client_info": {
+          "package_name": "com.example.mazdoortw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcAkoqstH7QMbQywaPAueaqe2SPYbUggA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
